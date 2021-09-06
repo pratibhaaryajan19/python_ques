@@ -4,7 +4,6 @@ You are given an integer array nums. You are initially positioned at the array's
 Return true if you can reach the last index, or false otherwise.
 """
 """leetcode question"""
-"""another comment """
 class Solution:
     def canJump(self, n: List[int]) -> bool:
     	m = 0
